@@ -1,1 +1,1 @@
-# Lead_Score_Case_Study
+# lead_scoring_logistic_regression
